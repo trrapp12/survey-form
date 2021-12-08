@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Responsive Web Design: Free Code Camp Fillable Form</title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Zen+Kurenaido&display=swap" rel="stylesheet">
+      <link href="css/styles.css"  rel="stylesheet">
+    </head>
+   <body>
+    <div class="container">
+      <div class="left-column">
+        <img src="https://assets.codepen.io/2137444/pexels-alex-azabache-3766111.jpg" alt="picture of watch"/>
+      </div>
+      <div class="right-column">
+        <div class="fillable-form-container">
+          <h1 id="title">SAPPHIRE</h1>
+          <p> The finest in men's timepieces</p>
+          <form id="survey-form">
+<!-- Tip: The "for" attribute of <label> must be equal to the id attribute of the related element to bind them together. A label can also be bound to an element by placing the element inside the <label> element.         -->
+           <label for="name" id="name-label">Name:</label>
+          <input type="text" id="name" name="name-label" placeholder="name goes here" required>
+
+          <label for="email" id="email-label">Email:</label>
+          <input type="email" id="email" name="email-label" placeholder="email goes here" pattern=".+@globex\.com" required>
+
+          <label for="number" id="number-label">Order Amount</label>
+          <input type="number" id="number" name="number-label"  min="10" max="11" value="amount" placeholder="#" required>
+
+
+          <label for="dropdown">Styles:</label>
+          <select name="ice-cream" id="dropdown">
+            <option value="vanilla">Mariner</option>
+            <option value="chocolate">Aviator</option>
+            <option value="rainbow">Cartier</option>
+            <option value="alicorn">Kronos</option>
+          </select>
+        <label for="VISA" class="ccards">VISA</label>
+        <input type="radio" id="VISA" name="MOP" value="VISA">
+
+        <label for="MASTERCARD" class="ccards">MASTERCARD</label>
+        <input type="radio" id="MASTERCARD" name="MOP" value="MASTERCARD">
+
+        <label for="DISCOVER" class="ccards">DISCOVER</label>
+        <input type="radio" id="DISCOVER" name="MOP" value="DISCOVER">
+
+        <input type="checkbox" id="inside" name="vehicle1" value="inside">
+        <label for="inside" class="check-boxes"> I live in SALT LAKE COUNTY</label>
+
+        <br>
+        <input type="checkbox" id="outside" name="vehicle2" value="outside">
+        <label for="outside" class="check-boxes"> I live outside of SALT LAKE COUNTY</label>
+
+        <br>
+        <input type="checkbox" id="anon" name="vehicle3" value="anon">
+        <label for="anon" class="check-boxes"> I PREFER NOT TO SAY</label>
+
+        <br>
+
+        <label for="add_comments">Additional Comments</label>
+
+        <textarea id="add_comments" class="additional-comments" name="add_comments" rows="4" cols="50">
+         We would love to hear more from you!
+        </textarea>
+        <button id="submit">Submit</button>
+        <p id="description">This is a fillable project form for the Responsive Web Design, Free Code Camp certificate.</p><br><p>Photo credit: Alex Azabache, Pexel photos.</p>
+     </form>
+    </div>
+        </div>
+     </div>
+  </body>
+</html>
