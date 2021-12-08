@@ -26,7 +26,7 @@
 ### Description:
 ---
 
-This is an example for a Product Landing Page for the QUADRAStalkr, an imaginary drone from an imaginary company (that I have all the rights to :smirk: :smirk: :smirk: ).  
+An example of a survey form. 
 
 ### Project demonstrates the following:
 ---
