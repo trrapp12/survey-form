@@ -24,6 +24,9 @@
 
 ---
 ### Description:
+
+A simple survey form showing semantic html and a submittable form.
+
 ---
 
 An example of a survey form. 
@@ -72,5 +75,5 @@ An example of a survey form.
 ---
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
-# test-private
+
 
