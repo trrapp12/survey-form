@@ -29,7 +29,7 @@ A simple survey form showing semantic html and a submittable form.
 
 ---
 
-An example of a survey form. 
+
 
 ### Project demonstrates the following:
 ---
