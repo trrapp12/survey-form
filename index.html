@@ -2,6 +2,7 @@
   <html>
     <head>
       <title>Responsive Web Design: Free Code Camp Fillable Form</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Zen+Kurenaido&display=swap" rel="stylesheet">
@@ -18,31 +19,38 @@
           <p> The finest in men's timepieces</p>
           <form id="survey-form">
 <!-- Tip: The "for" attribute of <label> must be equal to the id attribute of the related element to bind them together. A label can also be bound to an element by placing the element inside the <label> element.         -->
-           <label for="name" id="name-label">Name:</label>
-          <input type="text" id="name" name="name-label" placeholder="name goes here" required>
+          <div class="container-label">
+            <label for="name" id="name-label">Name:</label>
+            <input type="text" id="name" name="name-label" placeholder="name goes here" required>
+          </div>
+          <div class="container-label">
+            <label for="email" id="email-label">Email:</label>
+            <input type="email" id="email" name="email-label" placeholder="email goes here" pattern=".+@globex\.com" required>
+          </div>
+          <div class="container-label">
+            <label for="number" id="number-label">Order Amount</label>
+            <input type="number" id="number" name="number-label"  min="10" max="11" value="amount" placeholder="#" required>
+          </div>
 
-          <label for="email" id="email-label">Email:</label>
-          <input type="email" id="email" name="email-label" placeholder="email goes here" pattern=".+@globex\.com" required>
-
-          <label for="number" id="number-label">Order Amount</label>
-          <input type="number" id="number" name="number-label"  min="10" max="11" value="amount" placeholder="#" required>
-
-
-          <label for="dropdown">Styles:</label>
+         <label for="dropdown">Styles:</label>
           <select name="ice-cream" id="dropdown">
             <option value="vanilla">Mariner</option>
             <option value="chocolate">Aviator</option>
             <option value="rainbow">Cartier</option>
             <option value="alicorn">Kronos</option>
           </select>
-        <label for="VISA" class="ccards">VISA</label>
-        <input type="radio" id="VISA" name="MOP" value="VISA">
+        
+        <div class="cc-input-container">
+          <input type="radio" id="VISA" name="MOP" value="VISA">
+          <label for="VISA" class="ccards">VISA</label>
+  
+          <input type="radio" id="MASTERCARD" name="MOP" value="MASTERCARD">
+          <label for="MASTERCARD" class="ccards">MASTERCARD</label>
+  
+          <input type="radio" id="DISCOVER" name="MOP" value="DISCOVER">
+          <label for="DISCOVER" class="ccards">DISCOVER</label>
+        </div>
 
-        <label for="MASTERCARD" class="ccards">MASTERCARD</label>
-        <input type="radio" id="MASTERCARD" name="MOP" value="MASTERCARD">
-
-        <label for="DISCOVER" class="ccards">DISCOVER</label>
-        <input type="radio" id="DISCOVER" name="MOP" value="DISCOVER">
 
         <input type="checkbox" id="inside" name="vehicle1" value="inside">
         <label for="inside" class="check-boxes"> I live in SALT LAKE COUNTY</label>
