@@ -26,16 +26,20 @@
 <br>
 
 ---
+
+<br>
+<br>
+
 ### Description:
 
 A simple survey form showing semantic html and a submittable form.
 
-
-
-
 ---
 
-### Project demonstrates the following:
+<br>
+<br>
+
+### survey-form demonstrates the following:
 
 
 - [X] **User Story #1:** I can see a title with id="title" in H1 sized text.
@@ -72,7 +76,7 @@ A simple survey form showing semantic html and a submittable form.
 
 ---
 
-### Project published at: 
+### survey-form published at: 
 
 
 [Survey Form](https://trrapp12.github.io/survey-form/)
@@ -80,8 +84,6 @@ A simple survey form showing semantic html and a submittable form.
 ---
 
 ### More Information:
-
-
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
