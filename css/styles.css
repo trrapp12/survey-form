@@ -40,7 +40,7 @@ img {
 }
 
 input {
-  margin: 0 1em;
+  margin: 0 1rem;
   width: 100%;
   padding: 5px;
   background-color: #F5f5f5;
@@ -120,14 +120,14 @@ p, input, label, h1, h2, select {
 select {
   border: none;
   background-color: #F5F5F5;
-  height: 2em;
+  height: 2rem;
   margin: 2px;
   width: 20%;
 }
 
 select#dropdown {
   display: block;
-  margin: 1em 25% 2em 1em;
+  margin-bottom: 1rem;
   width: 20%;
 }
 
@@ -135,8 +135,8 @@ select#dropdown {
 
 #add_comments {
   width: 100%;
-  padding: 1em;
-  font-size: 1em;
+  padding: 1rem;
+  font-size: 1rem;
   color: gray;
   background-color: #f5f5f5;
   border-radius: 5px;
@@ -151,12 +151,8 @@ select#dropdown {
 
 .container-label {
   display: flex;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
   width: 100%;
-}
-
-.ccards {
-  margin: 0 80% 0 0;
 }
 
 .cc-input-container {
@@ -164,19 +160,23 @@ select#dropdown {
 }
 
 .check-boxes {
-  margin: 1em 35% 1em 0em;
   width: 30%;
+}
+
+.checkbox-containers {
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
 #description {
   display: block;
   font-style: italic;
-  margin: 2em 0 0 0;
+  margin: 2rem 0 0 0;
 }
 
 #DISCOVER, #MASTERCARD, #VISA {
-  margin: 1em;
-  width: 1em;
+  margin-bottom: 1rem;
+  width: 1rem;
 }
 
 .fillable-form-container {
@@ -185,12 +185,12 @@ select#dropdown {
 }
 
 #inside, #outside, #anon {
-  margin: 1em;
-  width: 1em;
+  width: 1rem;
 }
 
 .left-column {
   min-width: 60%;
+  transition: 500ms;
 }
 
 .left-line {
@@ -201,12 +201,18 @@ select#dropdown {
 .right-column {
   width: 40%;
   padding: 2rem;
+  transition: 500ms;
 }
-
-#survey-form > div.cc-input-container > label:nth-child(4) {
-  margin: 0 70% 0 0;
-}
-
-
 
 /* ============================== MEDIA QUERIES ==============================*/
+
+@media (max-width: 1050px) {
+  .left-column {
+    min-width: 100%;
+  }
+
+  .right-column {
+    width: 100%;
+    padding: 2rem;
+  } 
+}
