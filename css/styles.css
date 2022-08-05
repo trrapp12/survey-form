@@ -131,6 +131,10 @@ select#dropdown {
   width: 20%;
 }
 
+textarea {
+  margin-bottom: 1.5rem;
+}
+
 /* ============================== CLASSES ==============================*/
 
 #add_comments {
@@ -156,7 +160,7 @@ select#dropdown {
 }
 
 .cc-input-container {
-  margin: 0 0 1rem 0;
+  margin: 0 0 1.5rem 0;
 }
 
 .check-boxes {
@@ -166,6 +170,10 @@ select#dropdown {
 .checkbox-containers {
   width: 100%;
   margin-bottom: 1rem;
+}
+
+.checkbox-section {
+  margin-bottom: 1.5rem;
 }
 
 #description {
@@ -193,6 +201,10 @@ select#dropdown {
   transition: 500ms;
 }
 
+.personal-section {
+  margin-bottom: 1.5rem;
+}
+
 .left-line {
   padding-left: 2rem;
   border-left: 1px solid white;
@@ -202,6 +214,14 @@ select#dropdown {
   width: 40%;
   padding: 2rem;
   transition: 500ms;
+}
+
+.styles-section {
+  margin-bottom: 1.5rem;
+}
+
+.text-area-section {
+  margin-bottom: 1.5rem;
 }
 
 /* ============================== MEDIA QUERIES ==============================*/
