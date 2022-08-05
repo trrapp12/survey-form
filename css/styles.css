@@ -18,6 +18,8 @@ body {
 .container {
   background-color: white;
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .container-label {
