@@ -90,7 +90,7 @@ A simple survey form showing semantic HTML and a submittable form.
 
 ### FREE CODE CAMP RESPONSIVE WEB DESIGN CERTIFICATE:
 
-[freeCodeCampResponsiveWebDesign.pdf](https://github.com/trrapp12/survey-form/files/12224691/freeCodeCampResponsiveWebDesign.pdf)
+![freeCodeCampResponsiveWebDesign.pdf](https://github.com/trrapp12/survey-form/files/12224691/freeCodeCampResponsiveWebDesign.pdf)
 
 ---
 
