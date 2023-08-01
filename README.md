@@ -2,7 +2,10 @@
 
 
 ##### Contributors: Trevor Rapp
- 
+
+ * all work is completely my own.
+
+ *This project completed as part of the Free Code Camp Front End Development
 ---
 
 <br>
