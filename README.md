@@ -5,7 +5,8 @@
 
  * all work is completely my own.
 
- *This project completed as part of the Free Code Camp Front End Development
+ *This project completed as part of the Free Code Camp Responsive Web Design certificate*
+ 
 ---
 
 <br>
@@ -74,15 +75,23 @@ A simple survey form showing semantic html and a submittable form.
 
 ---
 
-### survey-form published at: 
+### CHALLENGES I OVERCAME...
 
+* Before I began this assignment I never realized how much detail went into making semantic HTML.  This was a great course to build that knowledge.
 
-[Survey Form](https://trrapp12.github.io/survey-form/)
+---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
+
+- [X] all work is completely my own.  The only directions were user stories the assignment needed to complete.
 
 ---
 
 ### More Information:
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+[freeCodeCampResponsiveWebDesign.pdf](https://github.com/trrapp12/survey-form/files/12224691/freeCodeCampResponsiveWebDesign.pdf)
+
+
+*For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
 
