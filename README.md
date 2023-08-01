@@ -26,19 +26,20 @@
 
 ---
 
-<br>
-<br>
+### DESCRIPTION:
 
-### Description:
+> " I would try and barter a cake for some help with coding. I'm not the best coder.  I have some basic HTML and that's it.
+>
+> --Rachel Khoo, best selling cookbook author
 
-A simple survey form showing semantic html and a submittable form.
+A simple survey form showing semantic HTML and a submittable form.
 
 ---
 
 <br>
 <br>
 
-### survey-form demonstrates the following:
+### THIS PROJECT DEMONSTRATES THE FOLLOWING:
 
 
 - [X] **User Story #1:** I can see a title with id="title" in H1 sized text.
@@ -75,22 +76,25 @@ A simple survey form showing semantic html and a submittable form.
 
 ---
 
-### CHALLENGES I OVERCAME...
+### CHALLENGES I OVERCAME:
 
 * Before I began this assignment I never realized how much detail went into making semantic HTML.  This was a great course to build that knowledge.
 
 ---
 
-### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED:
 
 - [X] all work is completely my own.  The only directions were user stories the assignment needed to complete.
 
 ---
 
-### More Information:
+### FREE CODE CAMP RESPONSIVE WEB DESIGN CERTIFICATE:
 
 [freeCodeCampResponsiveWebDesign.pdf](https://github.com/trrapp12/survey-form/files/12224691/freeCodeCampResponsiveWebDesign.pdf)
 
+---
+
+### YOU CAN FIND ME AT:
 
 *For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
