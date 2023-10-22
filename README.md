@@ -1,5 +1,6 @@
 # survey-form
 
+<br/>
 
 ##### Contributors: Trevor Rapp
 
@@ -11,17 +12,20 @@
 
 <br>
 
-![Survey Form](https://user-images.githubusercontent.com/11747875/145137171-84d916aa-33ef-4f2a-a9e0-6a6332115d51.gif)
+[![Button60](https://user-images.githubusercontent.com/11747875/145137022-7e0307f1-6ca7-4fcc-ab0a-76a9646528a0.png)](https://trrapp12.github.io/survey-form/)
 
 <br>
 
-[![Button60](https://user-images.githubusercontent.com/11747875/145137022-7e0307f1-6ca7-4fcc-ab0a-76a9646528a0.png)](https://trrapp12.github.io/survey-form/)
+![Survey Form](https://user-images.githubusercontent.com/11747875/145137171-84d916aa-33ef-4f2a-a9e0-6a6332115d51.gif)
+
+<br/>
 
 ---
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 <br>
 
 ---
@@ -32,12 +36,17 @@
 >
 > --Rachel Khoo, best selling cookbook author
 
-A simple survey form showing semantic HTML and a submittable form.
+*A simple survey form showing semantic HTML and a submittable form.*
 
 ---
 
-<br>
-<br>
+### QUICKSTART GUIDE
+
+To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/groovy-blocks/">https://trrapp12.github.io/groovy-blocks/</a>. 
+
+<br/>
+
+---
 
 ### THIS PROJECT DEMONSTRATES THE FOLLOWING:
 
