@@ -2,7 +2,7 @@
 
 <br/>
 
-##### Contributors: Trevor Rapp
+#### Contributors: Trevor Rapp
 
  * all work is completely my own.
 
