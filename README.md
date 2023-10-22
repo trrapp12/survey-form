@@ -4,9 +4,9 @@
 
 #### Contributors: Trevor Rapp
 
- * all work is completely my own.
+*All work is completely my own.*
 
- *This project completed as part of the Free Code Camp Responsive Web Design certificate*
+*This project completed as part of the Free Code Camp Responsive Web Design certificate*
  
 ---
 
