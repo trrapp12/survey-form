@@ -111,6 +111,14 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ---
 
+### ATTRIBUTIONS
+
+Project inspired by [Creative Coding: Making Visuals with JavaScript](https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript) by [Bruno Imbrizi](https://www.domestika.org/en/bruno_imbrizi)
+
+<br/>
+
+---
+
 ### YOU CAN FIND ME AT:
 
 *For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
