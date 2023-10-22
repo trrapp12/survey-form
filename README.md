@@ -83,11 +83,15 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 - [X] **User Story #16:** Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
 
+<br/>
+
 ---
 
 ### CHALLENGES I OVERCAME:
 
 * Before I began this assignment I never realized how much detail went into making semantic HTML.  This was a great course to build that knowledge.
+
+<br/>
 
 ---
 
@@ -95,11 +99,15 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 - [X] all work is completely my own.  The only directions were user stories the assignment needed to complete.
 
+<br/>
+
 ---
 
 ### FREE CODE CAMP RESPONSIVE WEB DESIGN CERTIFICATE:
 
 ![freeCodeCampResponsiveWebDesign.png](https://user-images.githubusercontent.com/11747875/257409023-964325b1-9779-48c7-bc0a-a9852a93d0cb.png)
+
+<br/>
 
 ---
 
